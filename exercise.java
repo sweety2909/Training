@@ -1,4 +1,4 @@
-package exercise1;
+//package exercise1;
 
 import java.util.Scanner;
 
@@ -71,7 +71,7 @@ final class CurrentAccount extends Account
 }
 
 
-public class exercise_sol_1 {
+public class exercise {
 	public static void main (String args[])
 	{
 		Scanner sc = new Scanner (System.in);
