@@ -5,7 +5,9 @@ class Demo
      {
           System.out.println("You have enterend in github");
 
-          System.out.println("\nYou have enterend in local repo");
+          System.out.println("\nYou have enterend in remote repo"); 
+      
+          System.out.println("\nThankyou");
 
      }
 }
